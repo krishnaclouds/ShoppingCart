@@ -1,3 +1,7 @@
+1. Based on https://www.youtube.com/watch?v=-edmQKcOW8s
+2. Fonts -> https://fonts.google.com/specimen/Oswald
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
